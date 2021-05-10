@@ -1,6 +1,7 @@
 import React from 'react'
 import styled from 'styled-components'
 import Page from 'components/layout/Page'
+import { Image } from '@pancakeswap-libs/uikit'
 import useI18n from 'hooks/useI18n'
 import Title from './components/Title'
 
