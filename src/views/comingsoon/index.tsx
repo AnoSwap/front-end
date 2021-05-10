@@ -9,7 +9,6 @@ const ComingSoonPage = styled.div`
   align-items: center;
   display: flex;
   flex-direction: column;
-  height: calc(55vh);
   justify-content: center;
 `
 
